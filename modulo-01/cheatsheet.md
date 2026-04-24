@@ -1,4 +1,4 @@
-# Cheatsheet — Módulo 1
+# Módulo 1
 ## Reconocimiento Pasivo Completo
 
 > Referencia rápida para tener abierta mientras practicás.
@@ -10,8 +10,8 @@
 
 ```bash
 whois DOMINIO.com                        # registro del dominio
-whois IP.IP.IP.IP                        # a quién pertenece esa IP
-whois -h whois.nic.ar DOMINIO.com.ar     # dominios .ar desde terminal
+whois x.x.x.x                        # a quién pertenece esa IP
+
 ```
 🌐 Dominios .ar → https://nic.ar/buscar
 
