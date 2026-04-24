@@ -1,10 +1,5 @@
 # Módulo 1 — Reconocimiento Pasivo
 
-> *"Nos contratan para auditar Nexus Financial. No tocamos nada todavía. Solo miramos.
-> Estamos por debajo del radar — solo fuentes abiertas."*
-
----
-
 ## 🧠 Mindset para esta fase
 
 El recon pasivo no es "lo que hacés antes de lo importante". **Es lo importante.**
@@ -28,20 +23,11 @@ Al terminar este módulo vas a poder:
 
 ---
 
-## Clases
-
-| Clase | Fecha | Tema |
-|-------|-------|------|
-| Clase 1 | Lunes 20 de Abril | Whois, DNS, Transferencia de zona, NIC Argentina |
-| Clase 2 | Miércoles 22 de Abril | OSINT, Subdominios, Shodan, Google Hacking, AI Pipeline |
-
----
-
 ## Material
 
 | Archivo | Descripción |
 |---------|-------------|
-| [comandos.md](./comandos.md) | Todas las herramientas del módulo — flag por flag |
+| [comandos.md](./comandos.md) | Todas las herramientas del módulo|
 | [cheatsheet.md](./cheatsheet.md) | Referencia rápida para tener abierta mientras practicás |
 | [checklist.md](./checklist.md) | Guía paso a paso para practicar solo después de clase |
 | [recursos.md](./recursos.md) | Links, tools, lecturas y certificaciones |
