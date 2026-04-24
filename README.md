@@ -1,4 +1,4 @@
-# Ethical Hacking — Curso LATAM
+# Ethical Hacking
 
 Repositorio oficial del curso. Acá encontrás el material de cada módulo:
 comandos comentados, cheatsheets y enunciados de challenges.
@@ -35,15 +35,7 @@ o contra objetivos diseñados para eso. Nunca contra sistemas sin permiso explí
 
 **Entorno recomendado:** Kali Linux en VM propia.
 
-**Dudas y entregas:** GitHub Discussions del repo.
-
 ---
-
-## Contexto narrativo
-
-Durante el curso trabajamos como consultores recién contratados para auditar
-**Nexus Financial S.A.** — una fintech latinoamericana ficticia.
-Cada técnica que aprendés tiene un propósito concreto dentro de ese engagement.
 
 ```
 Fases del pentest que vamos a cubrir:
